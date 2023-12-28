@@ -1,0 +1,17 @@
+{
+    "name": "magenta-button",
+    "version": "1.0.0",
+    "description": "Custom button component",
+    "main": "Button.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["button", "react", "component"],
+    "author": "Gulsum Simge Bozdogan",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^17.0.2",
+      "prop-types": "^15.7.2"
+    }
+  }
+  
